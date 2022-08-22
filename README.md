@@ -1,3 +1,8 @@
+## Problem
+
+`[Violation] 'click' handler took 180ms`
+when trying to open modal for the first time
+
 ## Ways to reproduce
 
 1. Install latest nextjs
